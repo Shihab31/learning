@@ -1,0 +1,15 @@
+.logo-area img {
+    height: 80px;
+}
+
+.nav {
+    margin-top: 15px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-right: 20px;
+
+}

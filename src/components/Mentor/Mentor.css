@@ -1,0 +1,16 @@
+.mentor {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+}
+
+.mentor-img {
+    border: 1px solid rebeccapurple;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.mentor-img img {
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Enginnering",
+        "img": "https://rootsedulive.com/static/media/university.385c6bfc.svg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.,"
+    },
+    {
+        "name": "Medical",
+        "img": "https://rootsedulive.com/static/media/iba.e46407a3.svg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "name": "University",
+        "img": "https://rootsedulive.com/static/media/AdmissionUniversity.084f798b.svg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "name": "IBA",
+        "img": "https://rootsedulive.com/static/media/AdmissionIba.3db5d8e3.svg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+]
